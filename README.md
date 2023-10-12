@@ -13,4 +13,12 @@ A project that cuts out a cat's face. Using openCV, python, haarcascade_frontalc
   * **savepath:** The output path.
   * **magnification:** This project will cut cat's face when it's be founded. You can set magnification is you want cut in different size.
   * **mode:** Mode 0 will show the picture, Mode 1 will save the picture.
- 
+
+ ### Example:
+ * Original pictiure
+   
+![testImage](https://github.com/cookiecatowo/CatFaceCutting/blob/main/img/3.jpg)
+
+* Cut picture
+  
+![testImage](https://github.com/cookiecatowo/CatFaceCutting/blob/main/testImage.PNG)
